@@ -94,6 +94,7 @@
     "delayed-stream": "^1.0.0",
     "depd": "^2.0.0",
     "diff": "^5.0.0",
+    "dotenv": "^16.0.0",
     "ecc-jsbn": "^0.1.2",
     "elliptic": "^6.5.4",
     "emoji-regex": "^8.0.0",
